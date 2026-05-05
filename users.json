@@ -1,0 +1,350 @@
+{
+  "Santhosh": {
+    "password": "santi1234",
+    "profile": {
+      "name": "Santhosh Ganesan",
+      "dob": "None",
+      "phone": "+91 89718 -67190",
+      "email": "santhoshganesan2004@gmail.com",
+      "location": "",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Bachelors",
+          "field": "Computer Science Engineering",
+          "college": "B.Tech. in Computer Science | Vellore Institute of Technology, Vellore, India Aug 2022 - Jul 2026",
+          "from": "08/2022",
+          "to": "07/2026"
+        }
+      ],
+      "experience": [
+        {
+          "role": "AI Intern",
+          "company": "Innominds Software Pvt. Ltd, Bengaluru",
+          "from": "05/2025",
+          "to": "07/2025",
+          "description": "\u25cf Designed and delivered a reliable YOLOv5 -based software module to detect safety helmets and vests, ensuring compliance"
+        }
+      ],
+      "skills": [
+        "leadership",
+        "algorithms",
+        "deep learning",
+        "machine learning",
+        "compliance",
+        "troubleshooting",
+        "iot",
+        "data structures",
+        "graph neural networks",
+        "edge ai",
+        "operations",
+        "training",
+        "embedded systems"
+      ],
+      "roles": [
+        "software engineer",
+        "team leader",
+        "network engineer",
+        "intern"
+      ],
+      "tools": [
+        "fastapi",
+        "github",
+        "flask",
+        "yolov5",
+        "pytorch",
+        "onnx",
+        "matplotlib",
+        "python",
+        "docker",
+        "numpy",
+        "git",
+        "linux"
+      ]
+    }
+  },
+  "Demo": {
+    "password": "123456",
+    "profile": {
+      "name": "Santhosh Ganesan",
+      "dob": "2004-06-12",
+      "phone": "8971867190",
+      "email": "santhoshganesan2004@gmail.com",
+      "location": "Bengaluru, India",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Bachelors",
+          "field": "Computer Science Technology",
+          "college": "Vellore Institute Of Technology",
+          "date": "2022-2026"
+        }
+      ],
+      "experience": [
+        {
+          "role": "AI Intern",
+          "company": "Innominds Software Pvt Ltd.",
+          "date": "May 2025 - July 2025",
+          "description": "Demo"
+        }
+      ],
+      "skills": [],
+      "roles": [],
+      "tools": []
+    }
+  },
+  "Ss": {
+    "password": "123456",
+    "profile": {
+      "name": "Sike",
+      "dob": "2000-01-01",
+      "phone": "9876543221",
+      "email": "santino7634@gmail.com",
+      "location": "India",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Bachelors",
+          "field": "Computer Science Engineering",
+          "college": "SRM",
+          "date": "2022-2026"
+        }
+      ],
+      "experience": [
+        {
+          "role": "Intern",
+          "company": "SalesForce1",
+          "date": "Jan 2025 - Jul 2025",
+          "description": "Amazing work, where i can actually learn alot"
+        }
+      ],
+      "skills": [],
+      "roles": [],
+      "tools": []
+    }
+  },
+  "demo2": {
+    "password": "11223344",
+    "profile": {
+      "name": "Santhosh Ganesan",
+      "dob": "2000-01-01",
+      "phone": "+91 89718 -67190",
+      "email": "santhoshganesan2004@gmail.com",
+      "location": "",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Diploma",
+          "field": "",
+          "college": "",
+          "date": ""
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "compliance",
+        "iot",
+        "edge ai",
+        "technical troubleshooting",
+        "training",
+        "operations management",
+        "machine learning",
+        "deep learning",
+        "algorithms",
+        "leadership",
+        "data structures",
+        "embedded systems",
+        "graph neural networks"
+      ],
+      "roles": [
+        "operations manager",
+        "network engineer"
+      ],
+      "tools": []
+    }
+  },
+  "admin": {
+    "password": "1234",
+    "profile": {
+      "name": "Santhosh Ganesan",
+      "dob": "2000-01-01",
+      "phone": "+91 8971867190",
+      "email": "",
+      "location": "",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Diploma",
+          "field": "",
+          "college": "",
+          "date": ""
+        }
+      ],
+      "experience": [],
+      "skills": [
+        "machine learning",
+        "leadership",
+        "iot",
+        "edge ai",
+        "operations management",
+        "training"
+      ],
+      "roles": [
+        "operations manager"
+      ],
+      "tools": []
+    }
+  },
+  "SanthoshG": {
+    "password": "1234567",
+    "profile": {
+      "name": "Santhosh Ganesan",
+      "dob": "2004-07-15",
+      "phone": "+91 89718 -67190",
+      "email": "santhoshganesan2004@gmail.com",
+      "location": "",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Bachelors",
+          "field": "Computer Science Engineering",
+          "college": "Vellore Institute Of Technology",
+          "date": "2022 -2026"
+        }
+      ],
+      "experience": [
+        {
+          "role": "Internship AI Intern",
+          "company": "Innominds Software Pvt. Ltd, Bengaluru",
+          "date": "05/2025 - 07/2025",
+          "description": "\u25cf Designed and delivered a reliable YOLOv5 -based software module to detect safety helmets and vests, ensuring compliance"
+        }
+      ],
+      "skills": [
+        "algorithms",
+        "machine learning",
+        "graph neural networks",
+        "operations management",
+        "iot",
+        "compliance",
+        "data structures",
+        "edge ai",
+        "embedded systems",
+        "training",
+        "deep learning",
+        "leadership"
+      ],
+      "roles": [
+        "operations manager"
+      ],
+      "tools": []
+    }
+  },
+  "Santi123": {
+    "password": "012345",
+    "profile": {
+      "name": "Summary",
+      "dob": "2000-01-01",
+      "phone": "+91 8971867190",
+      "email": "santhoshganesan2004@gmail.com",
+      "location": "Bengaluru, India",
+      "linkedin": "https://www.linkedin.com/in/santhoshganesan2004",
+      "education": [
+        {
+          "degree": "Bachelors",
+          "field": "Computer Science Engineering",
+          "college": "Vellore Institute Of Technology",
+          "date": "2022 - 2026"
+        }
+      ],
+      "experience": [
+        {
+          "role": "AI Intern",
+          "company": "Innominds Software Pvt. Ltd, Bengaluru",
+          "date": "05/2025 - 07/2025",
+          "description": "Designed and delivered a reliable YOLOv5-based software module to detect safety helmets and vests, ensuring compliance\nstandards.\nOptimized model inference on edge hardware by converting models to ONNX, applying knowledge of efficient deployment\nlibraries.\nDeveloped well-structured Flask API modules to serve the detection model, facilitating seamless integration with external\nsystems.\nIntegrated custom DSP blocks into Edge Impulse, contributing innovative ideas for deploying ML on resource-constrained\nIoT devices.\n\u25cf participated in debugging sessions and documented model architectures to ensure technical clarity for stakeholders.\n"
+        }
+      ],
+      "skills": [
+        "api development",
+        "edge ai",
+        "iot",
+        "leadership",
+        "machine learning",
+        "operations",
+        "operations management",
+        "training"
+      ],
+      "roles": [
+        "operations manager",
+        "team lead"
+      ],
+      "tools": [
+        "Excel",
+        "Power BI",
+        "Tableau"
+      ]
+    }
+  },
+  "avermaveteran": {
+    "password": "1234",
+    "profile": {
+      "name": "ADITYA VARMA",
+      "dob": "1980-08-15",
+      "summary": "Distinguished military career spanning 24 years of commissioned service in the Indian Army. Extensive\nexperience in Counter-Insurgency (CI) Operations, Strategic Planning, and Large-scale Logistics in high-altitude\nand desert terrains. Proven expertise in Command and Control of a combat battalion, ensuring operational\nreadiness, high morale, and peak performance under extreme pressure",
+      "phone": "",
+      "email": "a.varma.veteran@email.com",
+      "location": "",
+      "linkedin": "",
+      "education": [
+        {
+          "degree": "Master of Science",
+          "field": " Defence and Strategic Studies",
+          "college": "Madras University (via DSSC, Wellington)",
+          "date": "2012"
+        },
+        {
+          "degree": "Bachelor of Technology",
+          "field": " Mechanical Engineering",
+          "college": "Jawaharlal Nehru University (via National Defence Academy, Khadakwasla)",
+          "date": "2001"
+        }
+      ],
+      "experience": [
+        {
+          "role": "Commanding Officer (CO)",
+          "company": "Indian Army",
+          "date": "01/2020 - 01/2024",
+          "description": "Exercised absolute command over a frontline Infantry Battalion consisting of 850+ combatants.\n\nSuccessfully planned and executed Operation [Name], resulting in the neutralization of high-value targets with zero friendly casualties.\n\nManaged the maintenance and operational deployment of a vast inventory of specialized weaponry, surveillance equipment, and a fleet of B-vehicles.\n\nDirectly responsible for the career progression, discipline, and welfare of all personnel under command."
+        },
+        {
+          "role": "General Staff Officer Grade 1 (GSO-1)",
+          "company": "Indian Army",
+          "date": "01/2017 - 01/2020",
+          "description": "Formulated tactical operational plans for a Division-level exercise involving 15,000+ troops.\n\nCoordinated with inter-service wings (Air Force and Paramilitary) for integrated border management strategies.\n\nMonitored intelligence inputs and disseminated actionable reports to field units daily."
+        },
+        {
+          "role": "Second-in-Command (2IC) ",
+          "company": "Indian Army",
+          "date": "01/2014 - 01/2017",
+          "description": "Functioned as the Chief Operating Officer of the unit, overseeing the entire administrative and logistical backbone.\n\nManaged a multi-crore annual budget for unit training, infrastructure development, and canteen (CSD) operations."
+        }
+      ],
+      "skills": [
+        "communication systems",
+        "discipline",
+        "logistics",
+        "operations",
+        "security operations",
+        "strategic planning",
+        "team leadership",
+        "training"
+      ],
+      "roles": [
+        "network engineer",
+        "operations manager"
+      ],
+      "tools": []
+    }
+  }
+}
